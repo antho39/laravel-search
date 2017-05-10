@@ -1,6 +1,6 @@
 @extends('layouts.layout')
 @section('content')
-<p>Hello</p>
+<p>Tableau exemple</p>
 <table class="table" data-toggle="table">
     <thead>
     <tr>
