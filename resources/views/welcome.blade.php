@@ -43,7 +43,6 @@
 
                 // Si dans la variable text on trouve le mot tapé dans la barre de recherche on affiche la ligne
                 if(text.indexOf(val) != -1){
-                    console.log(text);
                     $(this).show();
                 }
 
